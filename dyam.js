@@ -7385,7 +7385,7 @@ message.member.voiceChannel
 
 //تۆكینه‌كان لێره‌ جا بنێ
 
-client.login("");
+client.login("ODgzODE4NjgzMTgzNTU4NjU3.YTPepQ.VRNrfeVoSzEwUGsgfkXyzYQPp2E");
 client2.login("");
 client3.login("");
 client4.login("");
